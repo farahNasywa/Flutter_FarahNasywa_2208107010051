@@ -79,9 +79,11 @@ lib/
 └── formregist.dart       # Form registrasi pengguna
 ```
 # 📸 Cuplikan Layar
-| ![Screenshot]![WhatsApp Image 2025-05-19 at 13 29 17](https://github.com/user-attachments/assets/46454f02-6684-451e-b4eb-10ff81586576)
- | ![Screenshot](Images/Screenshot-Hasil2.png) |
-|---------------------------------------------|---------------------------------------------|
-| ![Screenshot](Images/Screenshot-Hasil3.png) | ![Screenshot](Images/Screenshot-Hasil4.png) |
-| ![Screenshot](Images/Screenshot-Hasil5.png) | ![Screenshot](Images/Screenshot-Hasil6.png) |
+![WhatsApp Image 2025-05-19 at 13 29 17](https://github.com/user-attachments/assets/48174f4d-602a-49ad-b23e-ebc4acd4c6a2)
+![WhatsApp Image 2025-05-19 at 13 29 17 (2)](https://github.com/user-attachments/assets/9bcf2163-dc8e-4ddb-be20-3862bab8da94)
+![WhatsApp Image 2025-05-19 at 13 29 17 (1)](https://github.com/user-attachments/assets/e7234854-b0da-40cc-9728-4f72d8164ad6)
+![WhatsApp Image 2025-05-19 at 13 29 17 (3)](https://github.com/user-attachments/assets/e3bbe57e-9ccb-4af5-9c7b-f660b09cce28)
+![WhatsApp Image 2025-05-19 at 13 29 18](https://github.com/user-attachments/assets/0c64a867-9e69-4c68-bf6d-113d4b56c28c)
+![WhatsApp Image 2025-05-19 at 13 29 18 (1)](https://github.com/user-attachments/assets/4851c923-7c73-4005-b309-ee9d1fd784e7)
+
 
