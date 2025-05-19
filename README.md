@@ -1,7 +1,5 @@
 # Flutter_FarahNasywa_2208107010051
 
-# flutter_application_1
-
 A new Flutter project.
 
 ## Getting Started
